@@ -3,6 +3,19 @@ body {
 }
 h1 {
   text-align: center;
-  color: #FF0055;
+  color: red;
 }
+h2 {
+  text-align: left;
+  color: red;
+}
+.Caixa1 {
+  background: red;
+  color: black;
+  width: 200px;
+  height: 200px;
+  right: 0;
+  top: 0;
+}
+
 github.com
