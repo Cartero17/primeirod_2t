@@ -3,10 +3,16 @@ body {
 }
 h1 {
   text-align: center;
-  color: #0F0F0F
+  color: #FFFFFF;
 }
 h2 {
-  color: #0F0F0F
+  color: #FFFFFF;
+}
+h3 {
+  color: #0F0F0F;
+}
+h4 {
+  color: #1C1C1C;
 }
 .caixa1 {
     position: absolute;
@@ -73,7 +79,7 @@ li a {
   font-family: 'Courier New', Courier, monospace;
 }
 li a:hover {
-  background: rgb(163, 224, 216);
+  background: #803434;
   color: black;
 }
 #aviao {
@@ -87,8 +93,8 @@ li a:hover {
    height: 150px;
    background:rgb(218, 219, 150);
    margin: 20px;
-   border-color: rgb(43, 226, 104);
+   border-color: #ED0A02;
    border-width: 20px;
-   border-style: solid;
+   border-style: outset;
    padding: 20px;
 }
